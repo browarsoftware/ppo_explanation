@@ -53,11 +53,12 @@ Example visualizations of GradCAM for agents with various resolutions of camera:
 
 ### "Simple" convolutional neural network
 
-![gif](data/Simple/SimpleCollector_48x48_hidden16.mp4.gif)
-![gif](data/Simple/SimpleCollector_64x64_hidden16.mp4.gif)
-![gif](data/Simple/SimpleCollector_96x96_hidden16.mp4.gif)
-![gif](data/Simple/SimpleCollector_128x128_hidden16.mp4.gif)
-![gif](data/Simple/SimpleCollector_192x192_hidden16.mp4.gif)
+<img src="data/Simple/SimpleCollector_48x48_hidden16.mp4.gif" alt="drawing" width="200"/>
+<img src="data/Simple/SimpleCollector_64x64_hidden16.mp4.gif" alt="drawing" width="200"/>
+<img src="data/Simple/SimpleCollector_96x96_hidden16.mp4.gif" alt="drawing" width="200"/>
+<img src="data/Simple/SimpleCollector_128x128_hidden16.mp4.gif" alt="drawing" width="200"/>
+<img src="data/Simple/SimpleCollector_192x192_hidden16.mp4.gif" alt="drawing" width="200"/>
+
 <!--<video src="data/Simple/SimpleCollector_48x48_hidden16.mp4 " width="320" height="240" controls></video>
 <video src="data/Simple/SimpleCollector_64x64_hidden16.mp4 " width="320" height="240" controls></video>
 <video src="data/Simple/SimpleCollector_96x96_hidden16.mp4 " width="320" height="240" controls></video>
@@ -67,12 +68,11 @@ Example visualizations of GradCAM for agents with various resolutions of camera:
 ### "Nature" convolutional neural network
 
 <img src="data/Nature/SimpleCollector_48x48_hidden16.mp4.gif" alt="drawing" width="200"/>
+<img src="data/Nature/SimpleCollector_64x64_hidden16.mp4.gif" alt="drawing" width="200"/>
+<img src="data/Nature/SimpleCollector_96x96_hidden16.mp4.gif" alt="drawing" width="200"/>
+<img src="data/Nature/SimpleCollector_128x128_hidden16.mp4.gif" alt="drawing" width="200"/>
+<img src="data/Nature/SimpleCollector_192x192_hidden16.mp4.gif" alt="drawing" width="200"/>
 
-![gif](data/Nature/SimpleCollector_48x48_hidden16.mp4.gif)
-![gif](data/Nature/SimpleCollector_64x64_hidden16.mp4.gif)
-![gif](data/Nature/SimpleCollector_96x96_hidden16.mp4.gif)
-![gif](data/Nature/SimpleCollector_128x128_hidden16.mp4.gif)
-![gif](data/Nature/SimpleCollector_192x192_hidden16.mp4.gif)
 <!--<video src="data/Nature/SimpleCollector_48x48_hidden16.mp4 " width="320" height="240" controls></video>
 <video src="data/Nature/SimpleCollector_64x64_hidden16.mp4 " width="320" height="240" controls></video>
 <video src="data/Nature/SimpleCollector_96x96_hidden16.mp4 " width="320" height="240" controls></video>
