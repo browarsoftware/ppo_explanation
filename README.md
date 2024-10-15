@@ -66,6 +66,8 @@ Example visualizations of GradCAM for agents with various resolutions of camera:
 
 ### "Nature" convolutional neural network
 
+<img src="data/Nature/SimpleCollector_48x48_hidden16.mp4.gif" alt="drawing" width="200"/>
+
 ![gif](data/Nature/SimpleCollector_48x48_hidden16.mp4.gif)
 ![gif](data/Nature/SimpleCollector_64x64_hidden16.mp4.gif)
 ![gif](data/Nature/SimpleCollector_96x96_hidden16.mp4.gif)
