@@ -59,6 +59,14 @@ Example visualizations of GradCAM for agents with various resolutions of camera:
 <img src="data/Simple/SimpleCollector_128x128_hidden16.mp4.gif" alt="drawing" width="200"/>
 <img src="data/Simple/SimpleCollector_192x192_hidden16.mp4.gif" alt="drawing" width="200"/>
 
+![](data/Simple/SimpleCollector_48x48_hidden16.mp4.gif | width=100)
+![](data/Simple/SimpleCollector_64x64_hidden16.mp4.gif | width=100)
+
+![gif](data/Simple/SimpleCollector_48x48_hidden16.mp4.gif)
+![gif](data/Simple/SimpleCollector_64x64_hidden16.mp4.gif)
+![gif](data/Simple/SimpleCollector_96x96_hidden16.mp4.gif)
+![gif](data/Simple/SimpleCollector_128x128_hidden16.mp4.gif)
+![gif](data/Simple/SimpleCollector_192x192_hidden16.mp4.gif)
 <!--<video src="data/Simple/SimpleCollector_48x48_hidden16.mp4 " width="320" height="240" controls></video>
 <video src="data/Simple/SimpleCollector_64x64_hidden16.mp4 " width="320" height="240" controls></video>
 <video src="data/Simple/SimpleCollector_96x96_hidden16.mp4 " width="320" height="240" controls></video>
