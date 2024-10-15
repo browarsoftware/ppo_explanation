@@ -53,19 +53,29 @@ Example visualizations of GradCAM for agents with various resolutions of camera:
 
 ### "Simple" convolutional neural network
 
-<video src="data/Simple/SimpleCollector_48x48_hidden16.mp4 " width="320" height="240" controls></video>
+![gif]("data/Simple/SimpleCollector_48x48_hidden16.mp4.gif)
+![gif]("data/Simple/SimpleCollector_64x64_hidden16.mp4.gif)
+![gif]("data/Simple/SimpleCollector_96x96_hidden16.mp4.gif)
+![gif]("data/Simple/SimpleCollector_128x128_hidden16.mp4.gif)
+![gif]("data/Simple/SimpleCollector_192x192_hidden16.mp4.gif)
+<!--<video src="data/Simple/SimpleCollector_48x48_hidden16.mp4 " width="320" height="240" controls></video>
 <video src="data/Simple/SimpleCollector_64x64_hidden16.mp4 " width="320" height="240" controls></video>
 <video src="data/Simple/SimpleCollector_96x96_hidden16.mp4 " width="320" height="240" controls></video>
 <video src="data/Simple/SimpleCollector_128x128_hidden16.mp4 " width="320" height="240" controls></video>
-<video src="data/Simple/SimpleCollector_192x192_hidden16.mp4 " width="320" height="240" controls></video>
+<video src="data/Simple/SimpleCollector_192x192_hidden16.mp4 " width="320" height="240" controls></video>-->
 
 ### "Nature" convolutional neural network
 
-<video src="data/Nature/SimpleCollector_48x48_hidden16.mp4 " width="320" height="240" controls></video>
+![gif]("data/Simple/SimpleCollector_48x48_hidden16.mp4.gif)
+![gif]("data/Simple/SimpleCollector_64x64_hidden16.mp4.gif)
+![gif]("data/Simple/SimpleCollector_96x96_hidden16.mp4.gif)
+![gif]("data/Simple/SimpleCollector_128x128_hidden16.mp4.gif)
+![gif]("data/Simple/SimpleCollector_192x192_hidden16.mp4.gif)
+<!--<video src="data/Nature/SimpleCollector_48x48_hidden16.mp4 " width="320" height="240" controls></video>
 <video src="data/Nature/SimpleCollector_64x64_hidden16.mp4 " width="320" height="240" controls></video>
 <video src="data/Nature/SimpleCollector_96x96_hidden16.mp4 " width="320" height="240" controls></video>
 <video src="data/Nature/SimpleCollector_128x128_hidden16.mp4 " width="320" height="240" controls></video>
-<video src="data/Nature/SimpleCollector_192x192_hidden16.mp4 " width="320" height="240" controls></video>
+<video src="data/Nature/SimpleCollector_192x192_hidden16.mp4 " width="320" height="240" controls></video>-->
 
 Example CART-based explanation of ML Agent brain for 192x192 input video stream, "Simple" convolutional NN, $ ( \alpha=2, t=0.1 ) $ for Front-Back action. The depth of tree was set to 4.
 
