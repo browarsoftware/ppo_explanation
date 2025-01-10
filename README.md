@@ -6,7 +6,7 @@ Author: [Tomasz Hachaj](https://home.agh.edu.pl/~thachaj/), Marcin Piekarczyk
 
 ## Abstract
 
-In this paper, we will address the issues of the explainability of reinforcement learning-based machine learning agents trained with Proximal Policy Optimization (PPO) that utilizes visual sensor data. We will propose an algorithm that allow an effective and intuitive approximation of the PPO-trained neural network (NN). We will also conduct several experiments to confirm our method's effectiveness. Our proposed method works well for scenarios where semantic clustering of the scene is possible. It is based on the solid theoretical foundation of the Gradient-weighted Class Activation Mapping (GradCAM) and Classification And Regression Tree with additional proxy geometry heuristics. It excelled in the explanation process in a virtual simulation system based on a video system with relatively low resolution. Depending on the convolutional features extractor of the PPO-trained neural network, our method obtained 0.945 to 0.968 accuracy of approximation of the black-box model. We have published all source codes so our experiments can be reproduced.
+In this paper, we address the issues of the explainability of reinforcement learning-based machine learning agents trained with Proximal Policy Optimization (PPO) that utilizes visual sensor data. We propose an algorithm that allows an effective and intuitive approximation of the PPO-trained neural network (NN). We conduct several experiments to confirm our method’s effectiveness. Our proposed method works well for scenarios where semantic clustering of the scene is possible. Our approach is based on the solid theoretical foundation of Gradient-weighted Class Activation Mapping (GradCAM) and Classification and Regression Tree with additional proxy geometry heuristics. It excels in the explanation process in a virtual simulation system based on a video system with relatively low resolution. Depending on the convolutional feature extractor of the PPO-trained neural network, our method obtains 0.945 to 0.968 accuracy of approximation of the black-box model. The proposed method has important application aspects. Through its use, it is possible to estimate the causes of specific decisions made by the neural network due to the current state of the observed environment. This estimation makes it possible to determine whether the network makes decisions as expected (decision-making is related to the model’s observation of objects belonging to different semantic classes in the environment) and to detect unexpected, seemingly chaotic behavior that might be, for example, the result of data bias, bad design of the reward function or insufficient generalization abilities of the model. We publish all source codes so our experiments can be reproduced.
 
 ## Requirements
 
@@ -107,6 +107,28 @@ Example CART-based explanation of ML Agent brain for 192x192 input video stream,
 
 ![fb](img/simple192x192hidden16power2threshold0.1gj.svg)
 
-<!-- Full text -->
+## Full text
 
-<!-- Cite as -->
+[https://www.mdpi.com/2076-3417/15/2/538](https://www.mdpi.com/2076-3417/15/2/538)
+
+## Cite as
+
+Hachaj, T.; Piekarczyk, M. On Explainability of Reinforcement Learning-Based Machine Learning Agents Trained with Proximal Policy Optimization That Utilizes Visual Sensor Data. Appl. Sci. 2025, 15, 538. https://doi.org/10.3390/app15020538 
+
+Bibtex:
+
+@Article{app15020538, \
+AUTHOR = {Hachaj, Tomasz and Piekarczyk, Marcin}, \
+TITLE = {On Explainability of Reinforcement Learning-Based Machine Learning Agents Trained with Proximal Policy Optimization That Utilizes Visual Sensor Data},\
+JOURNAL = {Applied Sciences},\
+VOLUME = {15},\
+YEAR = {2025},\
+NUMBER = {2},\
+ARTICLE-NUMBER = {538},\
+URL = {https://www.mdpi.com/2076-3417/15/2/538},\
+ISSN = {2076-3417},\
+DOI = {10.3390/app15020538}\
+}\
+
+
+
