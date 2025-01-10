@@ -128,7 +128,6 @@ ARTICLE-NUMBER = {538},\
 URL = {https://www.mdpi.com/2076-3417/15/2/538},\
 ISSN = {2076-3417},\
 DOI = {10.3390/app15020538}\
-}\
-
+}
 
 
